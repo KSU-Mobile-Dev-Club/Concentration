@@ -25,4 +25,6 @@ To Do:
     1. Hint: “control drag”
 8. Create a label to store the number of times a card has been flipped.
 9. Consider how we could design functionality for “matching” cards together.
-10. Consider how we could design the functionality for the whole card game using multiple classes, as opposed to having everything in the ViewController. 
+10. Consider how we could design the functionality for the whole card game using multiple classes, as opposed to having everything in the ViewController.
+
+The full course materials are available courtesy https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316
